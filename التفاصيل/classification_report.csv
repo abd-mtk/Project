@@ -1,0 +1,17 @@
+,Precision,Recall,F1-score,Support
+I love you,1.0,1.0,1.0,10.0
+I want to play,1.0,1.0,1.0,13.0
+I want to help,1.0,1.0,1.0,4.0
+I am hungry,1.0,1.0,1.0,7.0
+I am sick,1.0,1.0,1.0,3.0
+lost,1.0,1.0,1.0,6.0
+scared,1.0,1.0,1.0,8.0
+happy,1.0,1.0,1.0,10.0
+Thanks,1.0,1.0,1.0,12.0
+thirsty,1.0,1.0,1.0,6.0
+I have a problem,1.0,1.0,1.0,4.0
+I didn't understand,1.0,1.0,1.0,12.0
+annoyed,1.0,1.0,1.0,10.0
+accuracy,,,1.0,105.0
+macro avg,1.0,1.0,1.0,105.0
+weighted avg,1.0,1.0,1.0,105.0
